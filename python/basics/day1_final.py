@@ -2,7 +2,7 @@ username = "testuser"
 expected_username = "testuser"
 
 status_code = 200
-response_time = 2.6
+response_time = 1.6
 max_response_time = 2.0
 
 if username != expected_username:
