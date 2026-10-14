@@ -1,3 +1,5 @@
+"""Calculate and report sample API response-time statistics."""
+
 response1 = 1.2
 response2 = 1.5
 response3 = 1.1
